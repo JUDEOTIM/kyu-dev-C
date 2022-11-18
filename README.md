@@ -1,2 +1,2 @@
-# kyu-dev-_c-
+# kyu-devC++
 programming for mechanical engineers
